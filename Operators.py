@@ -1,4 +1,4 @@
-1.Function for arithmetic operators
+#1.Function for arithmetic operators
 def arithmetic_operations(a, b):
     add = a + b
     sub = a - b
@@ -12,7 +12,7 @@ def arithmetic_operations(a, b):
 
 arithmetic_operations(10, 5)
 
-2.Method for increment and decrement operators
+#2.Method for increment and decrement operators
 x=5
 # Increment
 x += 1  
@@ -22,7 +22,7 @@ x -= 1
 print("After decrement:", x)
 
 
-3.Program to find the two numbers equal or not.
+#3.Program to find the two numbers equal or not.
 A = 30
 B = 30
 if A == B:
@@ -30,7 +30,7 @@ if A == B:
 else:
     print("Numbers are not equal")
 
-4.Program for relational operators
+#4.Program for relational operators
 a = 20 
 b = 30
 
@@ -40,7 +40,7 @@ print("a <= b:", a <= b)
 print("a > b:", a > b)
 print("a >= b:", a >= b)
 
-5.Print the smaller and larger number 
+#5.Print the smaller and larger number 
 a = 30
 b = 20
 if a < b:
