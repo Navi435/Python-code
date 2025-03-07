@@ -1,7 +1,7 @@
-1.Program to print your name
+#1.Program to print your name
 print("Naveena")
 
-2.Program for a Single line comment and multi-line comments 
+#2.Program for a Single line comment and multi-line comments 
 # This is a single-line comment
 
 """
@@ -9,7 +9,7 @@ This is a multi-line comment.
 It contains multiple lines.
 """
 
-3.Define variables for different Data Types and print them
+#3.Define variables for different Data Types and print them
 # Defining variables
 int_var = 10       
 bool_var = True    
@@ -24,7 +24,7 @@ print("Character:", char_var)
 print("Float:", float_var)
 print("Double:", double_var)
 
-4.Define the local and Global variables with the same name and print both variables
+#4.Define the local and Global variables with the same name and print both variables
 variables = "Global Variable"
 
 def my_function():
